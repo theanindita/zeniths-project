@@ -1,0 +1,17 @@
+{
+  "name": "zeniths-project",
+  "version": "1.0.0",
+  "description": "Zenith's FT Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "lite-server"
+  },
+  "keywords": [
+    "zenith"
+  ],
+  "author": "barungh",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
